@@ -47,16 +47,16 @@ W razie niespełnienia warunków, funkcja powinna pozwolić na wysłanie formula
 
 - Nie modyfikuj pliku `zadanie/index.html`, zmieniaj jedynie zawartość plików `zadanie/css/all.css` oraz `zadanie/js/all.js`.
 - Możesz używać dołączonych bibliotek jQuery oraz Underscore.js.
-- Rozwiązanie przyślij jako Pull Request.
+- Rozwiązanie prześlij jako link do sklonowanego repozytorium na adres `praca@ideamotiv.com` z tytułem `[Zadanie rekrutacyjne][Rozwiązanie]  Imię Nazwisko`.
 - Stwórz przynajmniej 2 commity (dla rozwiązania części css i js).
-- Na rozwiązania czekamy do 18 stycznia do godziny 14.00.
+- Na rozwiązania czekamy do 18 stycznia do godziny 13.37.
 - Kolejność nadesłania rozwiązań **NIE MA ZNACZENIA**
 - Zadanie będzie sprawdzane na najnowszej wersji przeglądarki Google Chrome.
 - Rozwiązanie **NIE** musi być RWD (wystarczy, że będzie działać w szerokości `> 1000px`.
 - Oceniamy jedynie to, co jest w treści zadania. Wszelkie dodatkowe bajery nie będą brane pod uwagę.
 - Ważna jest czytelność kodu i eleganckie rozwiązanie zadań.
-- Każdej osobie, która przyśle rozwiązanie damy odpowiedź zwrotną (z zaproszeniem do dalszego etapu lub rezygnacją) oraz przykładowe rozwiązanie.
-- Autorem zadania jest Michał Ślaziński, w razie wątpliwości proszę o maila na adres `m.slazinski@ideamotiv.com` z tytułem `[Zadanie rekrutacyjne] Imię Nazwisko`.
+- Każdej osobie, która prześle rozwiązanie damy odpowiedź zwrotną (z zaproszeniem do dalszego etapu lub rezygnacją) oraz przykładowe rozwiązanie.
+- Autorem zadania jest Michał Ślaziński, w razie wątpliwości proszę o maila na adres `m.slazinski@ideamotiv.com` z tytułem `[Zadanie rekrutacyjne][Pytanie] Imię Nazwisko`.
 
 Dziękujemy za zainteresowanie naszą ofertą i życzymy powodzenia!
 

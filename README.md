@@ -5,7 +5,7 @@
 W pliku `zadanie/index.html` znajduje się prosty formularz html. Twoim zadaniem jest dodanie plików `zadanie/css/all.css` oraz
 `zadanie/js/all.js`, które zmienią wygląd i zachowanie strony:
 
-Wymagania dotyczące wyglądu (zmienia **TYLKO CSS**):
+Wymagania dotyczące wyglądu (zmieniaj **TYLKO PLIK all.css**):
 
 - formularz ma być wycentrowany w pionie i poziomie
 - elementy listy wyboru (checkboxy) będą przedstawione jako ilustracje (pliki `zadanie/images`)
@@ -21,7 +21,7 @@ Poniżej znajduje się screencast pokazujący spodziewany efekt oraz screenshoty
 ![Screenshot 3](screenshot_3.png)
 ![Screenshot 4](screenshot_4.png)
 
-Wymagania dotyczące zachowania strony (zmienia **TYLKO JS**):
+Wymagania dotyczące zachowania strony (zmieniaj **TYLKO PLIK all.js**):
 
 Należy dodać funkcję, która będzie uruchomiona po wykryciu zdarzenia `submit` formularza. Funkcja ta ma sprawdzić, czy
 zbiór zaznaczonych postaci jest niepusty oraz czy zawiera tylko postaci z "Ciemnej Strony Mocy". Jeżeli warunek będzie spełniony

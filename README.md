@@ -16,6 +16,9 @@ Wymagania dotyczące wyglądu (zmieniaj **TYLKO PLIK all.css**):
 Poniżej znajduje się screencast pokazujący spodziewany efekt oraz screenshoty z wybranymi stanami:
 
 ![Screencast](screen_capture.gif)
+
+W przypadku, gdy gif nie działa proszę odwiedzić [http://d.pr/i/u8Jj](http://d.pr/i/u8Jj)
+
 ![Screenshot 1](screenshot_1.png)
 ![Screenshot 2](screenshot_2.png)
 ![Screenshot 3](screenshot_3.png)
